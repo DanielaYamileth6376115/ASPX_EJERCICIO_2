@@ -38,7 +38,7 @@ namespace QUERY_STRING
 
         protected void btnConfirm_Click(object sender, EventArgs e)
         {
-           
+            Response.Redirect("WebForm1.aspx");
         }
     }
     

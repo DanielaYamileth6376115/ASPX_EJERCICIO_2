@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\QUERY_STRING\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{425B4550-DA73-43C5-B954-C9A4959439E8}|QUERY_STRING\\QUERY_STRING.csproj|C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\QUERY_STRING\\query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{425B4550-DA73-43C5-B954-C9A4959439E8}|QUERY_STRING\\QUERY_STRING.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 3\\aspx\\query_string\\query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{425B4550-DA73-43C5-B954-C9A4959439E8}|QUERY_STRING\\QUERY_STRING.csproj|solutionrelative:query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{425B4550-DA73-43C5-B954-C9A4959439E8}|QUERY_STRING\\QUERY_STRING.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 3\\aspx\\query_string\\query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{425B4550-DA73-43C5-B954-C9A4959439E8}|QUERY_STRING\\QUERY_STRING.csproj|C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\QUERY_STRING\\query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{425B4550-DA73-43C5-B954-C9A4959439E8}|QUERY_STRING\\QUERY_STRING.csproj|solutionrelative:query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "QUERY_STRING\\WebForm2.aspx.cs",
               "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\QUERY_STRING\\QUERY_STRING\\WebForm2.aspx.cs",
               "RelativeToolTip": "QUERY_STRING\\WebForm2.aspx.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAIAwwCwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwCgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T23:35:38.151Z",
               "EditorCaption": ""
